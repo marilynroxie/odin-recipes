@@ -1,0 +1,18 @@
+* {
+  color: darkslategray;
+  background-color: lightgoldenrodyellow;
+}
+
+h1 {
+  font-family: Copperplate, monospace;
+}
+
+p,
+li {
+  font-family: "Courier New", monospace;
+}
+
+button {
+  font-family: Copperplate, monospace;
+  font-size: 20px;
+}
